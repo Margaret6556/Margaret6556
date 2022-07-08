@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Margaret Cezar
+- 👋 Hi, I’m @Margaret Cezar.
 - 👀 I’m interested in new frontiers in tech from several industries (Health, Ecommerce, PropTech, Blockchain, etc) . I like to create and build impactful startups.
 - 🌱 I’m currently learning Front End Development to get to Full stack Development.
 - 💞️ I’m looking to collaborate with Devops with similar interests with mine.
