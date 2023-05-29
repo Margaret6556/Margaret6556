@@ -1,9 +1,8 @@
-### Hi there 👋
+# Hi there 👋. I am Margaret Cezar.
 
-<!--
-**Margaret6556/Margaret6556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔖About Me 
 
-Here are some ideas to get you started:
+My name is Margaret Cezar.  I am a seasoned professional with real-world experience that spans multiple scenarios and economic cycles. I believe that experience is more valuable than anything else when it comes to solving problems and delivering results. That's why I am always eager to learn new skills and acquire new knowledge through micro learning. I have completed various certificates and programs outside of post secondary institutions that demonstrate my commitment to life long learning. On this page, you will find more information about my background, achievements, and interests.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
