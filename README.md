@@ -2,10 +2,10 @@
 
 ## 🔖About Me 
 
-My name is Margaret Cezar.  I looking to find a **Project Management role and currently studying to get in DevOps.**
+My name is Margaret Cezar.  I am looking for a **Front End Developer or Project Management role to get in DevOps.**
 
 **My  vision is to making a positive impact in the world through meaningful startups. 🕊️
-I empathize with the people I serve and the problems I solve. I always strive to deliver value and quality.I am a seasoned professional with real-world experience that spans multiple scenarios and economic cycles. I believe that experience is more valuable than anything else when it comes to solving problems and delivering results. That's why I am always eager to learn new skills and acquire new knowledge through micro learning. I have completed various certificates and programs outside of post secondary institutions that demonstrate my commitment to life long learning. 
+I empathize with the people I serve and the problems I solve. I always strive to deliver value and quality.I am a seasoned professional with real-world experience that spans multiple scenarios and economic cycles. I believe that experience is more valuable than anything else when it comes to solving problems and delivering results. That's why I am always eager to learn new skills and acquire new knowledge through micro learning. I have completed various certificates and programs outside of post secondary institutions that demonstrate my commitment to lifelongpost-secondarymicrolearning learning. 
 
 On this page, you will find more information about my background, achievements, and interests.
 
@@ -13,7 +13,7 @@ On this page, you will find more information about my background, achievements, 
 * HTML , CSS, JS 
 * React, Python, OpenAI, Midjourney
 * Github, NodeJS, Terminal, Bootstrap, API
-* API, Notion, Canva, MS Office 365
+* MS Azure, API, Notion, Canva, MS Office 365
 
 ## Where I studied and currently studying
 * Shecodes Coding Bootcamp (React):  https://www.shecodes.io/
