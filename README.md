@@ -34,7 +34,7 @@ On this page, you will find more information about my background, achievements, 
 
 ##📫 How to reach me: 
 
-Linkedin : https://www.linkedin.com/in/margaretcezar/
-Twitter : https://www.twitter.com/lofelle
+* Linkedin : https://www.linkedin.com/in/margaretcezar/
+* Twitter : https://www.twitter.com/lofelle
 
 
