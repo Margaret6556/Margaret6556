@@ -30,7 +30,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Caregiver Meetup web apps
 * AngelSafe, Angelchest, FIlipinoPo,
 
-##📫 How to reach me: 
+## 📫 How to reach me: 
 
 * Linkedin : https://www.linkedin.com/in/margaretcezar/
 * Twitter : https://www.twitter.com/lofelle
