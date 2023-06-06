@@ -13,22 +13,22 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Github, NodeJS, Terminal, Bootstrap, API
 * MS Azure, API, Notion, Canva, MS Office 365
 
-## Where I studied and currently studying
+## 🎒 Where I studied and currently studying
 * Shecodes Coding Bootcamp (React):  https://www.shecodes.io/
 * Udemy (Web Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 * Udemy (Python) : https://www.udemy.com/course/100-days-of-code/learn/
 * Youtube : Microcourses
 
-## Certificates I earned so far:
+## 📑Certificates I earned so far:
 * Intro to coding : https://www.shecodes.io/certificates/46d4bf0bc048dd544a448983e6bc7a84
 * Web Development : https://www.shecodes.io/certificates/02075c67d3384846e0d8825a370e36e3
 * Responsive Web Development  - https://www.shecodes.io/certificates/b19f4ddf59e041ea3a2c4a747c448d18
 * Automation : https://trsmcredentials.ryerson.ca/d71ad2bc-6ea0-4081-9dfa-adcea022713c#gs.yz3kf8
 
-## 🔭 I’m currently working Apps & webApps as a startup & personal projects 
+## 🔭 My startup & personal projects 
 * The official Medical Dictionary
-* Caregiver Meetup web apps
-* AngelSafe, Angelchest, FIlipinoPo,
+* Caregiver Meetup webapp
+* AngelSafe, Angelchest, FIlipinoPo, 
 
 ## 📫 How to reach me: 
 
