@@ -10,7 +10,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 ## 🌱 Program and tools that I use
 * HTML , CSS, JS 
 * React, Python, OpenAI, Midjourney
-* Github, NodeJS, Terminal, Bootstrap, API
+* Github, NodeJS, Terminal, Bootstrap
 * MS Azure, API, Notion, Canva, MS Office 365
 
 ## 🎒 Where I studied and currently studying
