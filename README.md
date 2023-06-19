@@ -17,6 +17,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Shecodes Coding Bootcamp (React):  https://www.shecodes.io/
 * Udemy (Web Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 * Udemy (Python) : https://www.udemy.com/course/100-days-of-code/learn/
+* Microsoft Learn : Microsoft Azure
 * Youtube : Microcourses
 
 ## 📑Certificates I earned so far:
