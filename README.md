@@ -1,6 +1,6 @@
 # Hi👋. I am Margaret Cezar
 
-# Portfolio - https://margaretcezar.com/
+## _Portfolio_ - https://margaretcezar.com/
 
 ## 🔖About Me 
 
