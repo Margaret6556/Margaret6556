@@ -23,13 +23,17 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Youtube : Microcourses
 
 ## 📑Certificates I earned so far:
-* Intro to coding : https://www.shecodes.io/certificates/46d4bf0bc048dd544a448983e6bc7a84
-* Web Development : https://www.shecodes.io/certificates/02075c67d3384846e0d8825a370e36e3
+* Advanced React Development  - https://www.shecodes.io/certificates/b19f4ddf59e041ea3a2c4a747c448d18
 * Responsive Web Development  - https://www.shecodes.io/certificates/b19f4ddf59e041ea3a2c4a747c448d18
-* Automation : https://trsmcredentials.ryerson.ca/d71ad2bc-6ea0-4081-9dfa-adcea022713c#gs.yz3kf8
+* Web Development : https://www.shecodes.io/certificates/02075c67d3384846e0d8825a370e36e3
+* Intro to coding : https://www.shecodes.io/certificates/46d4bf0bc048dd544a448983e6bc7a84
+* Business Process Automation: https://trsmcredentials.torontomu.ca/d71ad2bc-6ea0-4081-9dfa-adcea022713c
 
 ## 🔭 My startup & personal projects 
+* My personal website
+  https://margaretcezar.com/
 * The official Medical Dictionary
+  https://savvymedipedia.com/
 * Caregiver Meetup webapp
 * AngelSafe, Angelchest, FIlipinoPo, 
 
