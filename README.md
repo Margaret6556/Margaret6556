@@ -15,7 +15,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Github, NodeJS, Terminal, Bootstrap
 * MS Azure, API, Notion, Canva, MS Office 365
 
-## 🎒 Programs attended/attending (my educational journey so far)
+## 🎒 Programs attended/attending 
 * Shecodes Coding Bootcamp (React):  https://www.shecodes.io/
 * Udemy (Web Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 * Udemy (Python) : https://www.udemy.com/course/100-days-of-code/learn/
@@ -35,7 +35,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * The official Medical Dictionary
   https://savvymedipedia.com/
 * Caregiver Meetup webapp
-* AngelSafe, Angelchest, FIlipinoPo, 
+* AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide
 
 ## 📫 How to reach me: 
 
