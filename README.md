@@ -1,4 +1,4 @@
-# Hi👋. I am Margaret Cezar
+# Hi👋 I am Margaret Cezar.
 
 ### _Portfolio_ - https://margaretcezar.com/
 
@@ -19,6 +19,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 * Shecodes Coding Bootcamp (React):  https://www.shecodes.io/
 * Udemy (Web Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 * Udemy (Python) : https://www.udemy.com/course/100-days-of-code/learn/
+* Deeplearning.ai
 * Microsoft Learn : Microsoft Azure
 * Youtube : Microcourses
 
@@ -32,10 +33,10 @@ I empathize with the people I serve and the problems I solve. I always strive to
 ## 🔭 My startup & personal projects 
 * My personal website
   https://margaretcezar.com/
-* The official Medical Dictionary
+* The official and Modern Medical Dictionary
   https://savvymedipedia.com/
 * Caregiver Meetup webapp
-* AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide
+* AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide, *GeeksMakeover
 
 ## 📫 How to reach me: 
 
