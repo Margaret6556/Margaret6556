@@ -4,7 +4,13 @@
 
 ## 🔖About Me 
 
-My name is Margaret Cezar.  I am looking for a **Front End Developer or Project Management role.**
+My name is Margaret Cezar.  
+
+→ Current Stanford LEAD student and 6x experienced founder.
+
+→ 4Y + of tech startup experience, I was the mastermind for all things front-end and back-end. I worked closely with the design and developer team to turn my visions into reality and ensured our projects were pixel-perfect. I'm a team player who's not afraid to roll up my sleeves and get my hands dirty. Whether debugging code, optimizing website performance, or crafting user-friendly interfaces, I'm always up for a challenge.
+
+→ I am a multi-passionate and multi-skilled generalist with a wide range of experience in Marketing, Product & Engineering, Accounting, and Legal domains.
 
 **My  vision is to making a positive impact in the world through meaningful startups. 🕊️
 I empathize with the people I serve and the problems I solve. I always strive to deliver value and quality.I am a seasoned professional with real-world experience that spans multiple scenarios and economic cycles. I believe that experience is more valuable than anything else when it comes to solving problems and delivering results. That's why I am always eager to learn new skills and acquire new knowledge through micro learning. I have completed various certificates and programs outside of post secondary institutions that demonstrate my commitment to lifelong learning. 
