@@ -4,11 +4,9 @@
 
 ## 🔖About Me 
 
-My name is Margaret Cezar.  
+My name is Margaret Cezar, 6 times experienced tech founder.
 
-→ Current Stanford LEAD student and 6x experienced founder.
-
-→ 4Y + of tech startup experience, I was the mastermind for all things front-end and back-end. I worked closely with the design and developer team to turn my visions into reality and ensured our projects were pixel-perfect. I'm a team player who's not afraid to roll up my sleeves and get my hands dirty. Whether debugging code, optimizing website performance, or crafting user-friendly interfaces, I'm always up for a challenge.
+→ 4Y + of tech startup experience, I am the mastermind for all things front-end and back-end. I worked closely with the design and developer team to turn my visions into reality and ensured our projects were pixel-perfect. I'm a team player who's not afraid to roll up my sleeves and get my hands dirty. Whether debugging code, optimizing website performance, or crafting user-friendly interfaces, I'm always up for a challenge.
 
 → I am a multi-passionate and multi-skilled generalist with a wide range of experience in Marketing, Product & Engineering, Accounting, and Legal domains.
 
