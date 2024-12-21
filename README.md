@@ -15,9 +15,9 @@ I empathize with the people I serve and the problems I solve. I always strive to
 
 ## 🌱 Programs and tools that I use
 
-- HTML, CSS, JS
-- React, Python, OpenAI, Midjourney
-- Github, NodeJS, Terminal, Bootstrap
+- HTML5, CSS3, JS (Trifecta)
+- ReactJS, Python, OpenAI, Midjourney
+- Github, NodeJS, Terminal, Bootstrap, Bootstrap, Flowise, Render
 - MS Azure, API, Notion, Canva, MS Office 365
 
 ## 🎒 Programs attended/attending
@@ -41,10 +41,10 @@ I empathize with the people I serve and the problems I solve. I always strive to
 ## 🔭 My startup & personal projects
 
 - My personal website
-  https://margaretcezar.com/
+  https://margaretcezar.com/ (v2.0.0)
 - The official and Modern Medical Dictionary
   https://savvymedipedia.com/
-- Caregiver Meetup webapp
+- Caregiver Meetup webapp, BreathsyncAI
 - AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide, \*GeeksMakeover
 
 ## 📫 How to reach me:
@@ -52,4 +52,5 @@ I empathize with the people I serve and the problems I solve. I always strive to
 - Linkedin : https://www.linkedin.com/in/margaretcezar/
 - Twitter : https://www.twitter.com/lofelle
 
+- Link to my Software Engr portfolio: 2025
 - Link to my Developer portfolio: https://github.com/Margaret6556/margaretcezardev
