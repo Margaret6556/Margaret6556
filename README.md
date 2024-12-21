@@ -42,8 +42,8 @@ I empathize with the people I serve and the problems I solve. I always strive to
 
 - My personal website
   https://margaretcezar.com/ (v2.0.0)
-- The official and Modern Medical Dictionary
-  https://savvymedipedia.com/
+- Ai-powered smart inhaler device that tracks respiratory meds adherence
+  https://breathsyncai.com/
 - Caregiver Meetup webapp, BreathsyncAI
 - AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide, \*GeeksMakeover
 
