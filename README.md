@@ -32,7 +32,8 @@ I empathize with the people I serve and the problems I solve. I always strive to
 
 ## 📑Certificates I earned so far:
 
-- Advanced React Development - https://www.shecodes.io/certificates/b19f4ddf59e041ea3a2c4a747c448d18
+- Introduction to Artificial Intelligence - https://www.shecodes.io/certificates/bf181fcd06467f54502d4fddc67b5247
+- Advanced React Development - https://www.shecodes.io/certificates/559f3261206be0744b2298bfd6037a9e
 - Responsive Web Development - https://www.shecodes.io/certificates/b19f4ddf59e041ea3a2c4a747c448d18
 - Web Development : https://www.shecodes.io/certificates/02075c67d3384846e0d8825a370e36e3
 - Intro to coding : https://www.shecodes.io/certificates/46d4bf0bc048dd544a448983e6bc7a84
