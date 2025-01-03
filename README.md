@@ -4,14 +4,15 @@
 
 ## 🔖About Me
 
-My name is Margaret Cezar. I am an experienced tech founder.
+Hello world,
 
-→ 4Y + of tech startup experience, I am the mastermind for all things front-end and back-end. I worked closely with the design and developer team to turn my visions into reality and ensured our projects were pixel-perfect. I'm a team player who's not afraid to roll up my sleeves and get my hands dirty. Whether debugging code, optimizing website performance, or crafting user-friendly interfaces, I'm always up for a challenge.
+→ I’m Margaret Cezar, an experienced tech founder and developer with a passion for building innovative digital products. Currently gaining expertise in web development, data science, and machine learning. I specialize in creating clean, modern, sophisticated, user-friendly interfaces and efficient back-end systems. As an experienced founder of multiple tech startups, I've led brilliant volunteer dev team to deliver impactful, pixel-perfect solutions for my startup projects.
 
 → I am a multi-passionate and multi-skilled generalist with a wide range of experience in Marketing, Product & Engineering, Accounting, and Legal domains.
 
-\*\*My vision is to making a positive impact in the world through meaningful startups. 🕊️
-I empathize with the people I serve and the problems I solve. I always strive to deliver value and quality.I am a seasoned professional with real-world experience that spans multiple scenarios and economic cycles. I believe that experience is more valuable than anything else when it comes to solving problems and delivering results. That's why I am always eager to learn new skills and acquire new knowledge through micro learning. I have completed various certificates and programs outside of post secondary institutions that demonstrate my commitment to lifelong learning.
+→ Driven by curiosity and a commitment to lifelong learning, I am always exploring new ideas and business opportunities. My superpower is understanding people, which helps me foster strong collaborations and achieve great results.
+
+→ Let's connect! You can explore my projects on GitHub or visit my portfolio here.
 
 ## 🌱 Programs and tools that I use
 
@@ -42,7 +43,7 @@ I empathize with the people I serve and the problems I solve. I always strive to
 ## 🔭 My startup & personal projects
 
 - My personal website
-  https://margaretcezar.com/ (v2.0.0)
+  https://margaretcezar.com/ (v2.0.0) , currently working on v3
 - Ai-powered smart inhaler device that tracks respiratory meds adherence
   https://breathsyncai.com/
 - Caregiver Meetup webapp, BreathsyncAI
