@@ -23,7 +23,7 @@ Hello world,
 
 ## 🎒 Programs attended/attending
 - EDx Online - Introduction to Computer Science
-- Udemy (AI Agents & LLMs): https://www.udemy.com/course/ai-agents-automation-business-with-langchain-llm-apps/
+- Udemy (AI Agents & LLMs): AI agentsautomation business with langchain,llm-apps
 - Udemy (Full Stack Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 - Udemy (AI-All) - All of AI: ChatGPT, Midjourney, Stable Diffusion & App Dev
 - Udemy (Linux Training): https://www.udemy.com/course/complete-linux-training-course-to-get-your-dream-it-job/
