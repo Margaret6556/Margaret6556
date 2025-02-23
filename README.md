@@ -31,7 +31,7 @@ Hello world,
 - Udemy (Web Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
 - Udemy (Python) : https://www.udemy.com/course/100-days-of-code/learn/
 - Deeplearning.ai
-- Microsoft Learn : Microsoft Azure
+- AWS Cloud
 - Youtube : Microcourses
 - Cybersecurity: TryHackMe
 
