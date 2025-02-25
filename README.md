@@ -6,7 +6,7 @@
 
 Hello world,
 
-→ I’m Margaret Cezar, an experienced tech founder and developer with a passion for building innovative digital products. Currently gaining expertise in web adn full-stack  development, AI-agents, LLM, and machine learning. I specialize in creating clean, modern, sophisticated, user-friendly interfaces and efficient back-end systems. As an experienced founder of multiple tech startups, I've led brilliant volunteer dev team to deliver impactful, pixel-perfect solutions for my startup projects.
+→ I’m Margaret Cezar, an experienced tech founder and developer with a passion for building innovative digital products. Currently gaining expertise in web adn full-stack  development, AI-agents, LLM, and machine learning. I specialize in creating clean, modern, sophisticated, user-friendly interfaces and efficient back-end systems. As an experienced founder of multiple tech startups, I've led brilliant volunteer dev team anf freelancers to deliver impactful, pixel-perfect solutions for my startup projects.
 
 → I am a multi-passionate and multi-skilled generalist with a wide range of experience in Marketing, Product & Engineering, Accounting, and Legal domains.
 
@@ -18,8 +18,8 @@ Hello world,
 
 - HTML5, CSS3, JS (Trifecta)
 - ReactJS, Python, OpenAI, Midjourney
-- Github, NodeJS, Terminal, Bootstrap, Bootstrap, Flowise, Render
-- MS Azure, API, Notion, Canva, MS Office 365
+- Github, NodeJS, Terminal, Bootstrap,  Flowise, Render
+- AWS, API, Notion, Canva, Google Workspace
 
 ## 🎒 Programs attended/attending
 - EDx Online - Introduction to Computer Science
@@ -51,7 +51,7 @@ Hello world,
   https://zippy-axolotl-521884.netlify.app/ (v.1.0)
 - Ai-powered smart inhaler device that tracks respiratory meds adherence
   https://breathsyncai.com/
-- Caregiver Meetup webapp, BreathsyncAI
+- Caregiver Meetup webapp, BreathsyncAI, *\AgileAthena
 - AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide, \*GeeksMakeover
 
 ## 📫 How to reach me:
