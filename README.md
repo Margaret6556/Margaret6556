@@ -6,7 +6,7 @@
 
 Hello world,
 
-→ I’m Margaret Cezar, an experienced tech founder and developer with a passion for building innovative digital products. Currently gaining expertise in web adn full-stack  development, AI-agents, LLM, and machine learning. I specialize in creating clean, modern, sophisticated, user-friendly interfaces and efficient back-end systems. As an experienced founder of multiple tech startups, I've led brilliant volunteer dev team anf freelancers to deliver impactful, pixel-perfect solutions for my startup projects.
+→ I’m Margaret Cezar, an experienced tech founder and developer with a passion for building innovative digital products. Currently gaining expertise in web and full-stack  development, AI-agents, LLM, and machine learning. I specialize in creating clean, modern, sophisticated, user-friendly interfaces and efficient back-end systems. As an experienced founder of multiple tech startups, I've led brilliant volunteer dev team and freelancers to deliver impactful, pixel-perfect solutions for my startup projects.
 
 → I am a multi-passionate and multi-skilled generalist with a wide range of experience in Marketing, Product & Engineering, Accounting, and Legal domains.
 
