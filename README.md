@@ -17,7 +17,7 @@ Hello world,
 ## 🌱 Programs and tools that I use
 
 - HTML5, CSS3, JS (Trifecta)
-- ReactJS, Python, OpenAI, Midjourney
+- ReactJS, Python, ChatGPT, Grok3
 - Github, NodeJS, Terminal, Bootstrap,  Flowise, Render
 - AWS, API, Notion, Canva, Google Workspace
 
@@ -48,11 +48,12 @@ Hello world,
 
 - My personal website
   https://margaretcezar.com/startups (v2.0.0) , currently working on v3
-  https://zippy-axolotl-521884.netlify.app/ (v.1.0)
+- https://zippy-axolotl-521884.netlify.app/ (v.1.0)
 - Ai-powered smart inhaler device that tracks respiratory meds adherence
   https://breathsyncai.com/
 - Caregiver Meetup webapp, BreathsyncAI, *\AgileAthena
 - AngelSafe, Angelchest, FIlipinoPo, BusinessGrowthAide, \*GeeksMakeover
+- My online resume - https://exquisite-kitten-f89ea9.netlify.app/
 
 ## 📫 How to reach me:
 
