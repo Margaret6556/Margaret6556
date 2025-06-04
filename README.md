@@ -22,6 +22,8 @@ Hello world,
 - AWS, API, Notion, Canva, Google Workspace
 
 ## 🎒 Programs attended/attending
+- Udemy: The complete Agentic AI Engineering Course
+- Udemy: Docker, Kubernetes, AWS Deployment in 25 days
 - EDx Online - Introduction to Computer Science
 - Udemy (AI Agents & LLMs): AI agentsautomation business with langchain,llm-apps
 - Udemy (Full Stack Development): https://www.udemy.com/course/the-complete-web-development-bootcamp/
