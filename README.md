@@ -22,7 +22,7 @@ Hello world,
 - AWS, API, Notion, Canva, Google Workspace
 
 ## 🎒 Programs attended/attending
-- AI Product Management Course (NextGen) with Netflix-PM Director, ex-Amazon, ex-Facebook, ex Etsy instructor
+- AI Product Management Course with Netflix-PM Director, ex-Amazon, ex-Facebook, ex Etsy instructor
 - Udemy: The complete Agentic AI Engineering Course
 - Udemy: Docker, Kubernetes, AWS Deployment in 25 days
 - EDx Online - Introduction to Computer Science
